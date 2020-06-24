@@ -1,21 +1,21 @@
 ## Ecoleta Server
 
-# Clone this repository
+#### Clone this repository
 $ git clone https://github.com/saintclair/ecoleta-server.git
 
-# Go into the repository
+#### Go into the repository
 $ cd ecoleta-server
 
-# Install dependencies
+#### Install dependencies
 $ yarn install
 
-# Run Migrates
+#### Run Migrates
 $ yarn knex:migrate
 
-# Run Seeds
+#### Run Seeds
 $ yarn knex:seed
 
-# Start server
+#### Start server
 $ yarn dev
 
-# running on port 3333
+#### running on port 3333
